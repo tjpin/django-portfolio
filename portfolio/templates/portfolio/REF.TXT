@@ -1,0 +1,36 @@
+<!-- {% extends 'portfolio/base.html' %} <br />
+{% block content %} <br />
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    Required meta tags
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    /> -->
+
+<!-- <title>Home</title>
+    <h2><a href="{% url 'blog:blog_home' %}"> Blog </a></h2> -->
+<!-- <img src="{% static 'portfolio/intro-bg.jpg' %}" /> -->
+<!-- Bootstrap CSS -->
+<!-- </head> -->
+<!-- 
+  <body>
+    <div class="container container-center"> -->
+<!-- <h1>Welcome to my portfolio</h1> -->
+<!-- <br />
+      {% for project in projects %}
+      <img src="{{ project.image.url }}" height="550" width="550" />
+      <h2>{{ project.title }}</h2>
+      <p>{{ project.description }}</p>
+      {% if project.url %} <br />
+      <a href="{{ project.url }}"> <h3>Github</h3> </a><br />
+      {% endif %} {%endfor %}
+    </div>
+  </body>
+</html>
+{% endblock content %} <br /> -->
+
+<!-- ======================================================= -->
